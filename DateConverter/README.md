@@ -20,6 +20,5 @@ Quick manual test (in browser console)
 - Convert a Gregorian date to Shamsi:
   - Example: `gregorianToShamsi(new Date(2025, 10, 7))` — note months are 0-based in `Date`.
 
-Notes & next steps
-- I added basic validation and tried to follow the existing conversion algorithm conventions used in this repo.
-- If you'd like, I can add automated unit tests (Node-based or browser-based) to assert known conversion pairs.
+
+
